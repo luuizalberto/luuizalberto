@@ -19,6 +19,8 @@
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div><br/>
   
-  ![Snake animation](https://github.com/luuizalberto/luuizalberto/blob/output/github-contribution-grid-snake.svg)
+ <!--
+    ![Snake animation](https://github.com/luuizalberto/luuizalberto/blob/output/github-contribution-grid-snake.svg)
+ -->
 
 Apaixonado por tecnologia.
