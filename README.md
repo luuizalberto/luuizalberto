@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/luiz-alberto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=luuizalberto&show_icons=true&theme=dark&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuizalberto&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
 
 
 ## Tecnologias que eu uso no meu dia
